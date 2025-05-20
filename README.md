@@ -203,9 +203,6 @@
             </div>
         </div>
     </section>
-
-
-
     <!-- Sección Especialidades -->
     <section class="section specialties">
         <div class="container">
