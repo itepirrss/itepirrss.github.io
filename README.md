@@ -204,65 +204,7 @@
         </div>
     </section>
 
-   <!-- Sección Pensum -->
-   <section class="section curriculum" id="pensum">
-    <div class="container">
-        <div class="section-header">
-            <h2>Plan de Estudios</h2>
-            <p class="section-subtitle">Formación general estructurada en 4 lapsos</p>
-        </div>
-        <div class="tabs">
-            <div class="tab-header">
-                <div class="tab-btn active" data-tab="lapso1">I Lapso</div>
-                <div class="tab-btn" data-tab="lapso2">II Lapso</div>
-                <div class="tab-btn" data-tab="lapso3">III Lapso</div>
-                <div class="tab-btn" data-tab="lapso4">IV Lapso</div>
-            </div>
-            <div class="tab-content">
-                <div class="tab-pane active" id="lapso1">
-                    <ul class="subject-list">
-                        <li><i class="fas fa-book"></i> Iniciación a la Filosofía</li>
-                        <li><i class="fas fa-book"></i> Antropología</li>
-                        <li><i class="fas fa-book"></i> Ética Cristiana</li>
-                        <li><i class="fas fa-book"></i> Psicología General</li>
-                        <li><i class="fas fa-book"></i> Iglesia y los Medios de Comunicación</li>
-                        <li><i class="fas fa-book"></i> Introducción a la Sagrada Escritura</li>
-                    </ul>
-                </div>
-                <div class="tab-pane" id="lapso2">
-                    <ul class="subject-list">
-                        <li><i class="fas fa-book"></i> Introducción a la Teología</li>
-                        <li><i class="fas fa-book"></i> Antiguo Testamento</li>
-                        <li><i class="fas fa-book"></i> Sacramentos en General</li>
-                        <li><i class="fas fa-book"></i> Cristología</li>
-                        <li><i class="fas fa-book"></i> Historia de la Iglesia I</li>
-                        <li><i class="fas fa-book"></i> Teología Moral</li>
-                    </ul>
-                </div>
-                <div class="tab-pane" id="lapso3">
-                    <ul class="subject-list">
-                        <li><i class="fas fa-book"></i> Categorística</li>
-                        <li><i class="fas fa-book"></i> Edetalología</li>
-                        <li><i class="fas fa-book"></i> Mariología</li>
-                        <li><i class="fas fa-book"></i> Historia de la Iglesia II</li>
-                        <li><i class="fas fa-book"></i> Nuevos Ministerios</li>
-                        <li><i class="fas fa-book"></i> Nuevo Testamento</li>
-                    </ul>
-                </div>
-                <div class="tab-pane" id="lapso4">
-                    <ul class="subject-list">
-                        <li><i class="fas fa-book"></i> Dios Uno y Trino</li>
-                        <li><i class="fas fa-book"></i> Teología Litúrgica</li>
-                        <li><i class="fas fa-book"></i> Doctrina Social de la Iglesia</li>
-                        <li><i class="fas fa-book"></i> Introducción al Derecho Canónico</li>
-                        <li><i class="fas fa-book"></i> Espiritualidad y Documentos Laicales</li>
-                        <li><i class="fas fa-book"></i> Teología pastoral: "Plan Pastoral Integral Arquidiocesano"</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+  
 
     <!-- Sección Especialidades -->
     <section class="section specialties">
@@ -320,7 +262,7 @@
                 <blockquote class="verse-text">
                     "Yo soy la vid, ustedes los sarmientos; el que permanece en mí y yo en él, 
                     ese da mucho fruto, porque separados de mí no pueden hacer nada."
-                    <cite class="verse-reference">Juan 15:5</cite>
+                    <cite class="verse-reference">Juan 15,5</cite>
                 </blockquote>
                 <div class="verse-decoration">
                     <i class="fas fa-leaf"></i>
@@ -409,7 +351,7 @@
                     <h4>Contacto</h4>
                     <ul>
                         <li><i class="fas fa-map-marker-alt"></i> Arquidiócesis de Barquisimeto</li>
-                        <li><i class="fas fa-envelope"></i> itepibqto@cmall.com</li>
+                        <li><i class="fas fa-envelope"></i> itepibqto@gmail.com</li>
                         <li><i class="fas fa-phone-alt"></i> 0414-3529844</li>
                     </ul>
                 </div>
