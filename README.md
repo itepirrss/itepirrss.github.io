@@ -204,7 +204,7 @@
         </div>
     </section>
 
-  
+
 
     <!-- Sección Especialidades -->
     <section class="section specialties">
@@ -286,7 +286,7 @@
                             <i class="fas fa-envelope"></i>
                             <div>
                                 <h4>Correo Electrónico</h4>
-                                <p>itepibqto@cmall.com</p>
+                                <p>itepibqto@gmail.com</p>
                             </div>
                         </div>
                         <div class="contact-item">
