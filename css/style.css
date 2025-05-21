@@ -868,3 +868,27 @@ img {
         justify-content: center;
     }
 }
+/* Especialidades - Estilos para la nueva disposición */
+.specialty-fullwidth {
+    grid-column: 1 / -1;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.specialty-pair-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .specialty-pair-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .specialty-fullwidth {
+        margin-top: 0;
+    }
+}
